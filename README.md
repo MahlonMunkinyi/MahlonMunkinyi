@@ -5,6 +5,7 @@
 **Final Year Software Engineering Student | Full-Stack Developer | Tech Enthusiastt🧑🏽‍💻**
 
 🎓 I'm a passionate final year Software Engineering student with a strong foundation in both front-end and back-end development. I thrive on building efficient, user-friendly, and scalable software solutions. My interests span across web and mobile development, distributed systems, DevOps, and open-source contributions.
+---
 
 
 
