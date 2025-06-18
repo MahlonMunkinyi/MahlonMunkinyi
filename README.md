@@ -6,6 +6,19 @@
 
 🎓 I'm a passionate final year Software Engineering student with a strong foundation in both front-end and back-end development. I thrive on building efficient, user-friendly, and scalable software solutions. My interests span across web and mobile development, distributed systems, DevOps, and open-source contributions.
 
+
+## 📈 GitHub Stats
+
+![Mahlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahlonmunkinyi&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/mahlonmunkinyi](https://linkedin.com/in/mahlonmunkinyi)
+- **Portfolio:** [mahlon.dev](https://mahlon.dev)
+- **Email:**  [mahlonmunkinyi431@gmail.com] 
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
